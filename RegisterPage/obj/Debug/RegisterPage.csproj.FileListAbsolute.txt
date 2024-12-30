@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\bin\Debug\RegisterPage.exe
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\bin\Debug\RegisterPage.pdb
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\obj\Debug\RegisterPage.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\obj\Debug\RegisterPage.form1.resources
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\obj\Debug\RegisterPage.Properties.Resources.resources
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\obj\Debug\RegisterPage.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\obj\Debug\RegisterPage.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\obj\Debug\RegisterPage.exe
+C:\Users\ASUS\Desktop\SchoolProject\RegisterPage\obj\Debug\RegisterPage.pdb
